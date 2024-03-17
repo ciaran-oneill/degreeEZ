@@ -1,0 +1,2 @@
+# degreeEZ
+Northmen - CSCE247
